@@ -37,7 +37,7 @@
 
 .header__title{
   margin-left: 64px;
-  width: 730px;
+  max-width: 730px;
   z-index: 4;
   font-size: 102px;
   line-height: 96px;
@@ -295,6 +295,8 @@
 }
 
 .footer__column-links {
+  display: flex;
+  flex-direction: column;
   margin: 0;
   padding: 0;
 }
