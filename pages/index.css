@@ -50,7 +50,7 @@
 /* VIDEO */
 @import url(../blocks/content/video/video.css);
 @import url(../blocks/content/video/__iframes/video__iframes.css);
-@import url(../blocks/content/video/__iframe/video__iframe);
+@import url(../blocks/content/video/__iframe/video__iframe.css);
 /* OAKLEY */
 @import url(../blocks/content/oakley/oakley.css);
 /* KHAN */
